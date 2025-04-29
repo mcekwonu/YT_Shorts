@@ -1,2 +1,2 @@
 # YT_Shorts
-Mersthub Mentors Youtube Shorts code
+Mersthub Mentors Youtube Shorts code for Python tips
